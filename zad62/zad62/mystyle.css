@@ -1,0 +1,22 @@
+﻿^contentpage {
+    background-color: #82cdfe;
+}
+
+.PageBackgroundColor {
+    background-color: #82cdfe;
+}
+
+#header {
+    font-size: 32;
+    font-weight: bolder;
+    color: #82cdfe;
+}
+button {
+    background-color: #1ea6e2;
+    color: #ffffff;
+}
+#mystylee {
+    font-size: 16;
+    background-color: white;
+    color: #82cdfe;
+}
